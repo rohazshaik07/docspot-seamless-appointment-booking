@@ -48,9 +48,10 @@ A comprehensive MERN stack application for managing doctor appointments with rol
 ## 📹 Demo & Documentation
 
 - **[Live Demo Video](https://drive.google.com/file/d/1-lynytg9aHKyZfNWuo8ZPCNUWZOwxnEu/view?usp=sharing)**
-- **[User Guide PDF](https://drive.google.com/file/d/your-file-id)**
+- **[Project Documentation](./Docs/DOCSPOT%20-%20LTVIP2025TMID50339%20.docx)**
 - **[Technical Documentation](./DOCUMENTATION.md)**
 
+> ℹ️ **Note:** If GitHub does not display or download the `.docx` file directly in your browser, you can right-click the link above and choose "Save link as..." to download it to your device.
 
 ## 📋 Prerequisites
 
@@ -163,6 +164,8 @@ docspot-appointment-system/
 │   │   ├── context/       # React context
 │   │   └── App.js         # Main App component
 │   └── package.json
+├── Docs/                   # Project documentation files
+│   └── DOCSPOT - LTVIP2025TMID50339 .docx
 ├── package.json           # Root package.json
 └── README.md
 ```
@@ -209,7 +212,6 @@ node scripts/clearDatabase.js
 node scripts/seedDatabaseComplete.js
 ```
 
-
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -225,4 +227,3 @@ node scripts/seedDatabaseComplete.js
 - **Srilakshmi Avvaru** - *UI/UX Designer* - [Srilakshmi Avvaru](https://github.com/srilakshmi-avvaru)
 - **M Vinnakota Chandini Sri** - *Backend Development* - [Vinnakota Chandini Sri](https://github.com/Chandini-0111)
 - **M Vineela** - *Full Stack Developer & Database management* - [M Vineela](https://github.com/MEKAVINEELA)
-
