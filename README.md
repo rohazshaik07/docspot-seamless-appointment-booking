@@ -49,6 +49,7 @@ A comprehensive MERN stack application for managing doctor appointments with rol
 
 - **[Live Demo Video](https://drive.google.com/file/d/1-lynytg9aHKyZfNWuo8ZPCNUWZOwxnEu/view?usp=sharing)**
 - **[Project Documentation](./Docs/DOCSPOT%20-%20LTVIP2025TMID50339%20.docx)**
+- **[Project Demonstration](./Docs/DOCSPOT%20-%20DEMO%20(1).mp4)**
 - **[Technical Documentation](./DOCUMENTATION.md)**
 
 > ℹ️ **Note:** If GitHub does not display or download the `.docx` file directly in your browser, you can right-click the link above and choose "Save link as..." to download it to your device.
