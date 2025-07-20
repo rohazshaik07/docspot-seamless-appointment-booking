@@ -227,4 +227,4 @@ node scripts/seedDatabaseComplete.js
 - **Samudram Hemanth** - *Frontend Developer* - [Samudram Hemanth](https://github.com/HemanthLXIX)
 - **Srilakshmi Avvaru** - *UI/UX Designer* - [Srilakshmi Avvaru](https://github.com/srilakshmi-avvaru)
 - **M Vinnakota Chandini Sri** - *Backend Development* - [Vinnakota Chandini Sri](https://github.com/Chandini-0111)
-- **M Vineela** - *Full Stack Developer & Database management* - [M Vineela](https://github.com/MEKAVINEELA)
+- **Rohaz Shaik** - *Full Stack Developer & Database management* - [Rohaz Shaik](https://github.com/rohazshaik07)
